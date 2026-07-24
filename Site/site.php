@@ -15,15 +15,16 @@
 
         <aside>
             <nav>
-            <li><a href="#">Categoria</a></li>
-        <li><a href="#">Workspaces</a></li> 
-        <li><a href="#">Personagens</a></li>   
-        <li><a href="#">Mapa</a></li>
-        </nav>
+                <li><a href="#">Categoria</a></li>
+                <li><a href="#">Workspaces</a></li>
+                <li><a href="#">Personagens</a></li>
+                <li><a href="#">Mapa</a></li>
+                <li><a href="#">Skills</a></li>
+            </nav>
         </aside>
     </header>
     <footer>
-        <h1>Desenvolvido  por</h1>
+        <h1>Desenvolvido por</h1>
         <p>JAWARE GAMES</p>
         <p>&copy;Desenvolvido por Henrique e Lucca</p>
     </footer>
