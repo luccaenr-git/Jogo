@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 
 <head>
+    <link href="index.php">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <meta charset="UTF-8">
@@ -11,11 +12,12 @@
 
 <body>
     <header>
-        <i class="#">Ola, Marilene</i>
+
         <aside>
             <nav>
-
-            </nav>
+            <li><a href="#">Categoria</a></li>
+        <li><a href="#">Workspaces</a></li>    
+        </nav>
         </aside>
     </header>
     <footer>
