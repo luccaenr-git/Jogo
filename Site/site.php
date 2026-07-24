@@ -15,6 +15,9 @@
         <aside>
             <nav>
                 <button><i class="#">Ola, Marilene !!</i></button>
+                <button><i class="#">Ola, Henrique !!</i></button>
+                <button><i class="#">Ola, Lucca !!</i></button>
+                <button><i class="#">Ola, Leo !!</i></button>
             </nav>
         </aside>
     </header>
