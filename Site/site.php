@@ -20,6 +20,7 @@
                 <li><a href="#">Personagens</a></li>
                 <li><a href="#">Mapa</a></li>
                 <li><a href="#">Skills</a></li>
+                <li><a href="#">Yolo</a></li>
             </nav>
         </aside>
     </header>
