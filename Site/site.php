@@ -19,7 +19,9 @@
         </aside>
     </header>
     <footer>
-
+        <h1>Desenvolvido  por</h1>
+        <p>JAWARE GAMES</p>
+        <p>&copy;Desenvolvido por Henrique e Lucca</p>
     </footer>
 </body>
 
