@@ -12,7 +12,7 @@
 
 <body>
     <header>
-        <i class="#">Ola, Marilene</i>
+
         <aside>
             <nav>
             <li><a href="#">Categoria</a></li>
