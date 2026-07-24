@@ -16,7 +16,9 @@
         <aside>
             <nav>
             <li><a href="#">Categoria</a></li>
-        <li><a href="#">Workspaces</a></li>    
+        <li><a href="#">Workspaces</a></li> 
+        <li><a href="#">Personagens</a></li>   
+        <li><a href="#">Mapa</a></li>
         </nav>
         </aside>
     </header>
